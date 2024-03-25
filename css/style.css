@@ -2,3 +2,10 @@ canvas{
     display: block;
     margin: 0 auto;
 }
+
+#titlee{
+    display: block;
+    margin: 0 auto;
+    color: brown;   
+    
+}
